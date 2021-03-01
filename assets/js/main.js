@@ -2,7 +2,7 @@
 
 
 let carousel = new Carousel({
-    continerID: '#my-carousel',
+    continerID: '#carousel',
     slideID: '.item__element',
     interval: 5000
 });
